@@ -1,0 +1,219 @@
+/*Extra small devices (portrait phones, less than 576px)
+*/@media (max-width: 575.98px) { 
+/*navbar start*/
+	.nav_menu ul li:first-child a{
+	padding-top: 30px !important;
+}
+/*navbar end*/
+/*banner start*/
+    .b_content {
+    padding: 40px 0;
+}
+	.text1 {
+    font-size: 25px;
+    letter-spacing: -2px;
+}
+    .line{
+	width: 15%;
+	margin: 10px 0px;
+}
+    .text2 {
+    font-size: 14px;
+}
+.b_form {
+    margin: 10px;
+    padding-top: 70px;
+}
+.jumbotron-cus2 {
+    margin: 10px 15px;
+}
+.j_text{
+    font-size: 16px;
+}
+.f_group {
+    padding: 0;
+}
+/*banner end*/
+/*socila media start*/
+.icons{
+    padding-top: 10px;
+}
+.icons ul{
+    margin: 15px 0px;
+}
+.icons ul li i{
+    font-size: 20px;
+}
+/*social media end*/
+/*tab start*/
+.tab_content {
+    padding: 40px 0px;
+}
+/*tab end*/
+/*awesome start*/
+.awesome_p1_h {
+    font-size: 24px;
+    margin-bottom: -30px;
+}
+.line2 {
+    margin: -20px;
+}
+.awesome_p1_p{
+    font-size: 9px;
+}
+/*awesome end*/
+.awesome_p1{
+    padding: 30px 0px;
+}
+/*footer start*/
+.footer_p {
+    font-size: 8px;
+    padding: 2px 0;
+}
+/*footer end*/
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+     /*navbar start*/ 
+	.nav_menu ul li:first-child a{
+	padding-top: 35px !important;
+}
+/*navbar end*/
+/*banner start*/
+    .b_content{
+    padding: 0;
+}
+ .b_text {
+    padding-top: 80px;
+}
+	.text1 {
+    font-size: 34px;
+}
+    .line{
+	width: 8%;
+    margin: 10px 0px;
+}
+    .text2 {
+    font-size: 19px;
+}
+.jumbotron-cus2 {
+    margin: 0px 76px;
+    margin-top: 50px;
+}
+/*banner end*/
+/*socila media start*/
+.icons{
+    padding-top: 20px;
+}
+.icons ul li i{
+    font-size: 30px;
+}
+/*social media end*/
+/*awesome start*/
+.awesome_p1_h{
+    margin: 0px; 
+}
+.line2 {
+    margin: 8px;
+}
+.awesome_p1_p{
+    padding-top: 0px;
+}
+.awesome_p1{
+    padding: 60px 0px;
+}
+/*awesome end*/
+/*footer start*/
+.footer_p {
+    font-size: 10px;
+    padding: 4px 0;
+}
+/*footer end*/
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*navbar start*/ 
+	.nav_menu ul li:first-child a{
+	padding-top: 30px !important;
+}   
+    /*navbar end*/
+    /*banner start*/
+    .b_content{
+        padding: 0;
+}
+    .b_text {
+    padding-top: 80px;
+}
+	.text1 {
+    font-size: 34px;
+}
+    .line{
+	width: 8%;
+    margin: 20px 0;
+}
+    .text2 {
+    font-size: 19px;
+}
+.b_form {
+    padding-bottom: 80px;
+}
+.jumbotron-cus2 {
+    margin: 0px 173px;
+    margin-top: 70px;
+}
+.image {
+    padding-top: 60px;
+}
+/*banner end*/
+/*socila media start*/
+.icons{
+    padding-top: 20px;
+}
+.icons ul li i{
+    font-size: 40px;
+}
+/*social media end*/
+/*tab start*/
+.v_btn{
+    margin-left: 40px;
+}
+/*tab end*/
+/*aesome start*/
+.awesome_p1{
+    padding: 80px 0px;
+}
+.awesome_p1_h{
+    margin: 0px; 
+}
+.awesome_p1_p{
+    padding-top: 10px;
+}
+/*footer start*/
+.footer_p {
+    font-size: 10px;
+    padding: 6px 0;
+}
+/*footer end*/
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*banner start*/
+	.text1 {
+    font-size: 24px;
+}
+    .line{
+	width: 12%;
+}
+    .text2 {
+    font-size: 14px;
+}
+/*banner end*/
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {  
+}
